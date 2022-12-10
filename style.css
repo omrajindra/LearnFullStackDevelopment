@@ -29,3 +29,14 @@ h5.model-title{
 .modelFormWrapper{
     padding:2rem;
 }
+.imgCenter{
+    margin: auto;
+    display: block;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top:15px;
+    margin-bottom: 20px;
+    width:50%;
+}
