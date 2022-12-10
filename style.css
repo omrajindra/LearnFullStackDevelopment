@@ -15,12 +15,17 @@
 
 .coolStuffWrapper{
     margin-top: 20px;
-
 }
 button.coolStuffBtn{
     background-color: red;
     color:#ffffff;
     display: block;
     margin: auto;
+}
+h5.model-title{
+    margin: auto;
+}
 
+.modelFormWrapper{
+    padding:2rem;
 }
